@@ -1,5 +1,5 @@
 # news_app_by_deep22798
-https://deep22798.github.io/tini/
+
 
 A complete news application with Getx
 
